@@ -3,5 +3,5 @@ hello china!
 branch B vim!
 branch master vim!
 branch a vim!
-test clone！
-
+测试克隆！
+我不管我不管我不管我不管我不管
